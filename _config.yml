@@ -1,14 +1,13 @@
 title: "My Documents"
 author: "Quoc-Duong Nguyen"
-description: "Lưu trữ một số tài liệu về Machine Learning của tôi."
+description: " "
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "nguyenquocduongqnu@mail.com"
 # twitter_username: "twitteruser"
 github_username: "nguyenquocduongqnu"
-linkedin_username: "duong-nguyen-quoc-512792234/"
-facebook_username: nguyenquocduongmath
+linkedin_username: "duong-nguyen-quoc-512792234"
 #flickr_username: username
 #instagram_username: username
 #pinterest_username: username
@@ -20,7 +19,6 @@ facebook_username: nguyenquocduongmath
 #########################################################################################
 theme: "minima"
 
-rss: rss
 
 kramdown:
   syntax_highlighter_opts:

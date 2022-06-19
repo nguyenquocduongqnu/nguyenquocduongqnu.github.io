@@ -1,10 +1,10 @@
 # Site settings
-title: Jonathan Hui blog
-email: 
-description: Deep learning
+title: Quoc-Duong Nguyen
+email: nguyenquocduongqnu@gmail.com
+description: Machine learning
 baseurl: ""
-url: "https://jhui.github.io"
-github_username:  jhui
+url: "https://nguyenquocduongqnu.github.io/"
+github_username:  nguyenquocduongqnu
 
 # Build settings
 markdown: kramdown

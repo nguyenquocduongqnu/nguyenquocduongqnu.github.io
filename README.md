@@ -1,2 +1,2 @@
-# jhui.github.io
-Jonathan Hui 
+# nguyenquocduongqnu.github.io
+Quoc-Duong Nguyen

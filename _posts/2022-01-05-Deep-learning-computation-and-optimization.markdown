@@ -5,7 +5,7 @@ mathjax: true
 priority: 990000
 title: “Deep learning - Computation & optimization.”
 excerpt: “Deep learning - Computation & optimization.”
-date: 2017-01-05 12:00:00
+date: 2022-01-05 12:00:00
 ---
 
 ### Poor conditioning

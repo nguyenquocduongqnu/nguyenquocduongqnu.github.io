@@ -5,7 +5,7 @@ mathjax: true
 priority: 340000
 title: “Machine learning - PCA, SVD, Matrix factorization and Latent factor model”
 excerpt: “Machine learning - PCA, SVD, Matrix factorization and Latent factor model”
-date: 2017-01-15 12:00:00
+date: 2022-06-18 12:00:00
 ---
 
 ### Principal Component Analysis (PCA)

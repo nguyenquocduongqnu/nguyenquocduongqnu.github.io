@@ -5,7 +5,7 @@ mathjax: true
 priority: 990000
 title: “Deep learning - Linear algebra.”
 excerpt: “Deep learning - Linear algebra.”
-date: 2017-01-05 12:00:00
+date: 2022-01-06 12:00:00
 ---
 
 

@@ -5,7 +5,7 @@ mathjax: true
 priority: -700
 title: “RNN, LSTM and GRU tutorial”
 excerpt: “This tutorial covers the RNN, LSTM and GRU networks that are widely popular for deep learning in NLP.”
-date: 2017-03-15 12:00:00
+date: 2022-05-09 12:00:00
 ---
 ### Recurrent Neural Network (RNN)
 

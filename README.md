@@ -1,2 +1,2 @@
 # nguyenquocduongqnu.github.io
-Quoc-Duong NG
+Quoc-Duong NGUYEN
